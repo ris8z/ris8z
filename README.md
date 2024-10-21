@@ -16,7 +16,7 @@
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ris8z&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ris8z&layout=compact&hide=html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
